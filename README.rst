@@ -2,7 +2,7 @@
 pyselect
 ========
 
-A Python library for easily getting user input form multiple items in a list, emulating the Bash(1) builtin select.
+A Python library for easily getting user input from multiple items in a list, emulating the bash(1) select builtin function.
 
 ============
 Usage
