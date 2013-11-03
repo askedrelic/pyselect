@@ -7,12 +7,12 @@ setup(
     name             = 'pyselect',
     version          = pyselect.__version__,
     description      = '',
-    # long_description = open('README.md').read() + '\n\n' + open('HISTORY.md').read(),
+    long_description = open('README.rst').read() + '\n\n' + open('HISTORY.rst').read(),
 
     author           = pyselect.__author__,
     author_email     = 'askedrelic@gmail.com',
     url              = 'https://github.com/askedrelic/pyselect',
-    # license          = open("LICENSE.txt").read(),
+    license          = open("LICENSE.txt").read(),
 
     packages         = ['pyselect'],
     # test_suite       = 'tests',
