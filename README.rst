@@ -11,7 +11,6 @@ Usage
 Pyselect wraps raw_input, more or less::
 
     In [1]: import pyselect
-    
     In [2]: pyselect.select(['apples', 'oranges', 'bananas'])
     1) apples
     2) oranges
